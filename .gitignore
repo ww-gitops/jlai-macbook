@@ -8,3 +8,6 @@ resources/*-password.txt
 .terraform
 *.tfstate*
 .terraform.lock.hcl
+
+gitops-wge-utils/*
+global-config/*
